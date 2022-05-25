@@ -1,0 +1,28 @@
+Agenda
+1. PTS 산출물 리뷰 - WBS, 기능 정의서, User story
+2. 멘토특강, 요구사항 관리
+	User story
+	분석 -> 설계 -> 구축 -> 테스트
+
+분석 - 요구사항(Requirement)을 분석(Analysis) -> User story(애자일 방법론) = 백로그에서 스프린트 단위(2주) 분석-설계-구축-테스트(케이스)-릴리즈
+					   - Acceptance criteria + 우선순위 + 견적
+					   MVP(Minimum viable product) = 최소 동작 제품
+					   기능분해도(폭포수 방법론) = 기능적 (CRUD)+ 비기능적(속도, 보안)에 대한 설명
+					   WBS(work breakdown structure) - Task(2주단위)- uncontroble
+								          dependency(개발착수 = 분석+개발) - 간디차트
+								          칸반 차트(보드) - 스크럼 미팅
+SW특징
+비가시성(보이지 않는 특성) -> UML설계
+
+3. To-Do 협의
+	1. 유스케이스
+	2. 스퀀스 다이어그램
+	3. 화면 설계서
+	4 상태 다이어그램
+	-> 스타 UML
+	5. 백로그(지라)
+	6. 유저 스토리 / 기능 정의서 보안
+	= 6월 24일 20시
+4. Kick-off
+
+
