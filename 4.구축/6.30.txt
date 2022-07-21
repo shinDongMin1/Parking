@@ -1,0 +1,31 @@
+Agenda
+Project 산출물(분석/설계)리뷰
+멘토특강, UML
+향후 To-Do
+Estimate = 이 기능(메뉴를) 만드는데 얼마나 걸릴까? 기간
+1주걸리냐, 2주걸리냐 == 개발기간
+비기능적 요구사항 ok
+
+1. 분석 산출물
+   WBS : Mile Street 관리 / 일정관리
+   요구사항 정의서 / user story : 요구사항 명세화
+
+2. 설계 산출물
+   UML : usecase diagram(쓰임새), sequence diagram(순차적)
+            화면설계서
+-> 공통점 : To-Do Image 확인 -> 고객과의 커뮤니케이션
+
+액터는 사람이 될 수도 있고, 시스템이 될 수도 있음.
+
+1. UML 개요
+2. UML 표기법
+UML : 가시화언어, 명세화언어, 문서화언어, 구축언어
+NoCoding Low-Coding -> Code없이 programming
+why? 커뮤니케이션 향상, To-Be Image 확인
+
+To-Do
+1. Release planning(백로그 관리) 도출
+MVP(Mininum Viable Product)
+2. sprint #1의 MVP 리뷰
+
+output : 1. App 2. Test 시뮬레이션(가상의 모형)
